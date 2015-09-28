@@ -1,1 +1,0 @@
-{"time_stamp": "18:11:09", "gyro": {"time_stamp": "18:11:09", "roll": 71, "pitch": 99}, "height": {"time_stamp": "18:11:09", "height": 71}, "accel": {"y": 84, "time_stamp": "18:11:09", "z": 57, "x": 94}, "gps": {"latitude": 252, "time_stamp": "18:11:09", "longitude": 77}}

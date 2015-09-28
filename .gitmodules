@@ -1,3 +1,6 @@
 [submodule "MQTT"]
 	path = MQTT
 	url = https://github.com/DarkDruiD/Marshmallow
+[submodule "Protobuf"]
+	path = Protobuf
+	url = https://github.com/DarkDruiD/Shield
