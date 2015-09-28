@@ -2,5 +2,5 @@
 	path = MQTT
 	url = https://github.com/DarkDruiD/Marshmallow
 [submodule "Protobuf"]
-	path = Protobuf
+	path = Protobuffs
 	url = https://github.com/DarkDruiD/Shield
